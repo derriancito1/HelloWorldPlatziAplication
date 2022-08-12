@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Hola platzi desktop" HorizontalAlignment="Left" Margin="240,145,0,0" VerticalAlignment="Top" FontSize="32"/>
+        <Label Content="Hola platzi desktop 1.0.1" HorizontalAlignment="Left" Margin="240,145,0,0" VerticalAlignment="Top" FontSize="32"/>
 
     </Grid>
 </Window>
